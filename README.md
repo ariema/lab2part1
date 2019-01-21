@@ -1,2 +1,3 @@
 * Allison Ariemma
-* 2020
+* ![photo](profilepic3.jpg)
+* Class of 2020
